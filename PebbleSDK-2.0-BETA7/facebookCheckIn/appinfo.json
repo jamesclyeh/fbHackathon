@@ -1,0 +1,17 @@
+{
+  "uuid": "7f6d321c-5fda-4e7a-9b24-061d402b1ae7",
+  "shortName": "facebookCheckIn",
+  "longName": "facebookCheckIn",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
